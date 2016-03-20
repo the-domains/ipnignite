@@ -1,6 +1,6 @@
-name: ipnignite
+name: IPN Ignite
 favicon: null
-layout_spectrum: 0.5039507744368166
+layout_spectrum: 0.35219
 typography_spectrum: 0.21761903981678188
 title: IPN Ignite
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#328a34'
+    - '#fdb016'
+    - '#015595'
+    - '#a7c9e8'
   brandStrength: 0.5674553164280951
   lightness: 0.07243411289528012
   saturation: 0.1316217251587659
