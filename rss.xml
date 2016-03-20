@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ipnignite]]></title>
+        <description><![CDATA[ipnignite]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 07:00:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Ismailis Professional Network (IPN) is a tool to promote alliances of its members in the same profession, or complementary professions where they could come together to create partnerships to explore economic opportunity. It also develops capacity to monitor and share with its members new areas of knowledge.</p>]]></description>
+            <link>undefined745f64c2-8718-412a-8c08-7464fc9c00a1/index.html</link>
+            <guid isPermaLink="false">745f64c2-8718-412a-8c08-7464fc9c00a1</guid>
+            <pubDate>Sun, 20 Mar 2016 07:00:17 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
