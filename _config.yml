@@ -2,6 +2,7 @@ name: ipnignite
 favicon: null
 layout_spectrum: 0.5039507744368166
 typography_spectrum: 0.21761903981678188
+title: IPN Ignite
 cta:
   domain: null
   bucket: null
