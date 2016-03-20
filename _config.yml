@@ -1,0 +1,28 @@
+name: ipnignite
+favicon: null
+layout_spectrum: 0.5039507744368166
+typography_spectrum: 0.21761903981678188
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5674553164280951
+  lightness: 0.07243411289528012
+  saturation: 0.1316217251587659
+  rhythmicContrast: 0.8951458907686174
+purpose: []
