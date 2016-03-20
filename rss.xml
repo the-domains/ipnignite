@@ -4,8 +4,15 @@
         <description><![CDATA[IPN Ignite]]></description>
         <link>https://thegrid.ai/ipnignite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 07:33:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 07:33:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ipnignite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Event Day Schedule]]></title>
+            <description><![CDATA[<h1>Event Day Schedule</h1>]]></description>
+            <link>https://thegrid.ai/ipnignite/1aa68be2-2e9d-464e-9069-76fa4226f363/index.html</link>
+            <guid isPermaLink="false">1aa68be2-2e9d-464e-9069-76fa4226f363</guid>
+            <pubDate>Sun, 20 Mar 2016 07:33:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Event Timelines]]></title>
             <description><![CDATA[<h1>Event Timelines</h1>]]></description>
