@@ -4,21 +4,21 @@
         <description><![CDATA[IPN Ignite]]></description>
         <link>https://thegrid.ai/ipnignite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 07:13:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 07:14:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ipnignite/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IPN Ignite]]></title>
+            <description><![CDATA[<article><h1>IPN Ignite</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ea4c0c957826db89acebf5f1e5c199b4292b5c4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ipnignite/745f64c2-8718-412a-8c08-7464fc9c00a1/index.html</link>
+            <guid isPermaLink="false">745f64c2-8718-412a-8c08-7464fc9c00a1</guid>
+            <pubDate>Sun, 20 Mar 2016 07:14:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IPN Ignite]]></title>
             <description><![CDATA[<article><h1>IPN Ignite</h1><p>IPN Ignite is an opportunity for Ismailis Professionals to find fuel for your new business ideas. An opportunity to present your startup idea to potential investors that share your passion for innovation. You will make long lasting relationships with new friends, investors and mentors who will serve as a catalyst for your success. Followed by a boot camp for perfecting your pitches and grooming for a more wholesome outlook.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/444a9d813b7fc7441b7233c9f8b41771dfb78271.jpg"></article>]]></description>
             <link>https://thegrid.ai/ipnignite/ipn-ignite/index.html</link>
             <guid isPermaLink="false">75835a53-5c77-4c23-ac08-75ffe24f0394</guid>
             <pubDate>Sun, 20 Mar 2016 07:13:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IPN Ignite]]></title>
-            <description><![CDATA[<article><h1>IPN Ignite</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ea4c0c957826db89acebf5f1e5c199b4292b5c4.jpg"></article>]]></description>
-            <link>https://thegrid.ai/ipnignite/745f64c2-8718-412a-8c08-7464fc9c00a1/index.html</link>
-            <guid isPermaLink="false">745f64c2-8718-412a-8c08-7464fc9c00a1</guid>
-            <pubDate>Sun, 20 Mar 2016 07:11:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
